@@ -38,5 +38,5 @@ img.setAttribute('src', 'https://images.pexels.com/photos/3777622/pexels-photo-3
 console.log(img);
 
 //pid.append(img);  // insertamos la imagen en el contenedor pid sin eliminar el contenido de pid
-pid.replaceChildren(img);  // insertamos la imagen y borra el contenido de pid
+gipid.replaceChildren(img);  // insertamos la imagen y borra el contenido de pid
 // document.createElement('span')
